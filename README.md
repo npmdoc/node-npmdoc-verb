@@ -1,6 +1,6 @@
 # npmdoc-verb
 
-#### api documentation for  [verb (v0.8.10)](https://github.com/verbose/verb)  [![npm package](https://img.shields.io/npm/v/npmdoc-verb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-verb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-verb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-verb)
+#### basic api documentation for  [verb (v0.8.10)](https://github.com/verbose/verb)  [![npm package](https://img.shields.io/npm/v/npmdoc-verb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-verb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-verb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-verb)
 
 #### Documentation generator for GitHub projects. Verb is extremely powerful, easy to use, and is used on hundreds of projects of all sizes to generate everything from API docs to readmes.
 
@@ -198,7 +198,8 @@
             ]
         }
     },
-    "version": "0.8.10"
+    "version": "0.8.10",
+    "bin": {}
 }
 ```
 
